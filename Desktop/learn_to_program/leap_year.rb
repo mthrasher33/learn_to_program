@@ -1,3 +1,4 @@
+#Calculates all the leap years between two years input by the user
 puts 'What\'s the first year?'
 yearStart = gets.chomp.to_i
 puts 'What\'s the second year?'
